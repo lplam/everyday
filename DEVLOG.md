@@ -1,3 +1,5 @@
 # 1.5.2024 - Repository partern in Nodejs/Nestjs
 
-nice
+```js
+const a = 1;
+```
