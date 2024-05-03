@@ -5,7 +5,7 @@ const a = 1;
 ```
 >hello
 
-# 2.5.2024 - Repository partern in Nodejs/Nestjs
+# 2.5.2024 - Repository partern in Nodejs/Nestjs part2
 
 
 **The problem**
